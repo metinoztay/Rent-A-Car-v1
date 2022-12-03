@@ -1,0 +1,16 @@
+
+34FEC87 Fiat EgeaCross EKO Dizel Manuel 15.04.2023 13.03.2020 Uygun
+34RCA99 Renault Clio EKO Benzin Otomatik 12.01.2023 15.02.2023 Uygun
+34FK18 Ford Kuga LUX Benzin Otomatik 05.08.2023 05.08.2023 Uygun
+34OI24 Opel Insignia LUX Benzin Otomatik 08.12.2023 12.08.2023 Uygun
+34MC30 Mercedes C PRO Benzin Otomatik 30.04.2022 18.06.2022 Uygun
+34FE90 Fiat Egea EKO Dizel Manuel 14.07.2022 21.08.2022 Uygun
+34FEG69 Fiat Egea EKO Dizel Manuel 20.01.2023 25.01.2023 Uygun
+34VTO21 Mercedes Vito VIP Dizel Manuel 27.09.2022 03.08.2022 Uygun
+34BM32 BMW 320i LUX Benzin Manuel 15.03.2023 01.04.2023 Uygun
+34KN971 Volkswagen Jetta LUX Dizel Manuel 05.03.2023 09.03.2023 Uygun
+34ZG94 Mini Cooper LUX Benzin Otomatik 03.08.2023 27.07.2023 Uygun
+34MT93 Volkswagen Golf EKO Benzin Otomatik 27.07.2022 03.08.2022 Uygun
+34SN974 Volvo S60 LUX Benzin Otomatik 20.06.2023 20.07.2023 Uygun
+34CLO812 Renault Clio EKO Dizel Otomatik 25.08.2022 25.08.2022 Uygun
+34PLO128 Volkswagen Polo EKO Dizel Manuel 01.02.2023 18.06.2022 Uygun
